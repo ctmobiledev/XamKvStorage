@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamKvStorage.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
+        <Label Text="XamKvStorage" FontSize="Large" TextColor="Black"
+           HorizontalOptions="Center"
+           VerticalOptions="Start" FontAttributes="Bold" />
+        <Label x:Name="txtIntroText" TextColor="Black" Text="--text--" HorizontalTextAlignment="Center"
+           Margin="20,0,20,0" 
+           HorizontalOptions="Center"
+           VerticalOptions="Start" />
+        <Entry x:Name="txtEntryValue" FontSize="Large" WidthRequest="200" HorizontalOptions="Center" Placeholder="Enter here"/>
+        <Button x:Name="btnSetValue" Text="SetValue" FontAttributes="Bold" WidthRequest="200" HorizontalOptions="Center" Clicked="btnSetValue_Clicked" />
+        <Button x:Name="btnGetValue" Text="GetValue" FontAttributes="Bold" WidthRequest="200" HorizontalOptions="Center" Clicked="btnGetValue_Clicked" />
+        <Button x:Name="btnDeleteValue" Text="DeleteValue" FontAttributes="Bold" WidthRequest="200" HorizontalOptions="Center"  Clicked="btnDeleteValue_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

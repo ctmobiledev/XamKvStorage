@@ -1,0 +1,12 @@
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\bin\Debug\netstandard2.0\XamKvStorage.deps.json
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\bin\Debug\netstandard2.0\XamKvStorage.dll
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\bin\Debug\netstandard2.0\XamKvStorage.pdb
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\XamKvStorage.csprojAssemblyReference.cache
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\XamKvStorage.csproj.CoreCompileInputs.cache
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\XamKvStorage.AssemblyInfoInputs.cache
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\XamKvStorage.AssemblyInfo.cs
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\XamKvStorage.dll
+C:\Xamarin_Projects\XamKvStorage\XamKvStorage\XamKvStorage\obj\Debug\netstandard2.0\XamKvStorage.pdb
